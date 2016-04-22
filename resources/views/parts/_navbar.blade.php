@@ -30,7 +30,7 @@
 						<li role="presentation" class="dropdown">
 							<a class="dropdown-toggle" data-toggle="dropdown" href="#">Info Kursus <span class="caret"></span></a>
 							<ul class="dropdown-menu" role="tablist">
-								<li role="presentation"><a href="{{url('info-kursus')}}">Info Kursus</a></li>
+								<li role="presentation"><a href="{{url('info-kursus')}}">Progra Kursus</a></li>
 								<li role="presentation"><a href="{{url('info-pendaftaran')}}">Info Pendaftaran</a></li>
 								<li role="presentation"><a href="{{url('tata-tertip-peserta')}}">Tata Tertip Peserta Didik</a></li>
 								<li role="presentation"><a href="{{url('tata-tertip-pendidik')}}">Tata Tertip Pendidik</a></li>

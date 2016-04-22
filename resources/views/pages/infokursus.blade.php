@@ -12,14 +12,13 @@
 @section('konten')
 <div class="services">
 	<div class="container">
-		<h3>Program Kursus</h3>
+		<h2>Program Kursus</h2>
 		<p>Program atau materi kursus yang dilaksanakan KRISTOF MULTIMEDIA adalah program aplikasi berbasis komputer yang dapat dipergunakan secara langsung oleh peserta dan dapat diinterprestasikan dalam berbagai bentuk pekerjaan baik dibidang pemerintahan maupun swasta. Program-program tersebut adalah :</p>
 		<hr>
 		<div class="col-md-6">
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1"><img src="images/4.jpg" class="img-responsive"></div>
 			</div>
-			<h3 class="text-center">Paket Aplikasi Perkantoran</h3>
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus interdum erat 
 			libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
 			libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
@@ -28,6 +27,7 @@
 		
 		<div class="col-md-6">
 			<div class="media">
+				<h3>Paket Aplikasi Perkantoran</h3>
 				<ul>
 					<li>
 						<div class="media-left">
@@ -108,7 +108,6 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1"><img src="images/4.jpg" class="img-responsive"></div>
 			</div>
-			<h3 class="text-center">Paket Teknik Komputer dan Jaringan</h3>
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus interdum erat 
 			libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
 			libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
@@ -129,6 +128,7 @@
 		
 		<div class="col-md-6">
 			<div class="media">
+				<h3>Paket Teknik Komputer dan Jaringan</h3>
 				<ul>
 					<li>
 						<div class="media-left">
