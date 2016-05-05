@@ -1,11 +1,11 @@
-@extends('main')
+@extends('info')
 
 
 @section('title', '| Info Kursus')
 
 
 @section('breadcrumb')
-<li>Info Kursus</li>
+	<li>Program Kursus</li>
 @endsection
 
 

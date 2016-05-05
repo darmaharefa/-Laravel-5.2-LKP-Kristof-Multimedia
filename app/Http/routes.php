@@ -16,7 +16,7 @@ Route::get('tentang-lkp-krisfot-multimedia', 'PagesController@getTentang');
 Route::get('info-kursus', 'PagesController@getKursus');
 Route::get('kontak', 'PagesController@getKontak');
 Route::get('blog', 'BlogsController@getIndex');
-Route::get('info-kursus', 'PagesController@getInfo');
+Route::get('program-kursus', 'PagesController@getInfo');
 Route::get('info-pendaftaran', 'PagesController@getPendaftaran');
 Route::get('tata-tertip-peserta', 'PagesController@getTataPeserta');
 Route::get('tata-tertip-pendidik', 'PagesController@getTataPendidik');
