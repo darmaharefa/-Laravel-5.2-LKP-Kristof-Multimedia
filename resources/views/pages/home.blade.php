@@ -13,16 +13,17 @@
                             <div class="col-sm-6">
                                 <div class="carousel-content">
                                     <h2 class="animation animated-item-1">Selamat Datang Di <span>LKP Kristof Multimedia</span></h2>
-                                    <p class="animation animated-item-2"><i>"Anda bisa kami senang... Anda pintar kami bangga"</i></p>
+                                    <!-- <p class="animation animated-item-2"><i>"Anda bisa kami senang... Anda pintar kami bangga"</i></p> -->
+                                    <i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true"></i><p class=""><i>"Anda bisa kami senang <br> Anda pintar kami bangga"</i></p>
                                     <a class="btn-slide animation animated-item-3" href="#">Bergabung Dengan Kami</a>
                                 </div>
                             </div>
 
-                            <div class="col-sm-6 hidden-xs animation animated-item-4">
+                            <!-- <div class="col-sm-6 hidden-xs animation animated-item-4">
                                 <div class="slider-img">
                                     <img src="images/slider/img3.png" class="img-responsive">
                                 </div>
-                            </div>
+                            </div> -->
 
                         </div>
                     </div>

@@ -288,23 +288,16 @@ a:hover {
 }
 
 .text-center i.info-kursus {
-  font-size:40px;
   margin-top:40px;
-  margin-bottom:30px;
-  color:#fff;
-  padding:50px;
-  background:#1BBD36;
-  border-radius:50%;
 }
 
 .text-center i.i-pendidik{
-  font-size:40px;
   margin-top:80px;
-  margin-bottom:30px;
-  color:#fff;
-  padding:50px;
-  background:#1BBD36;
-  border-radius:50%;
+}
+
+.text-center i.i-pendaftaran{
+  margin-top:0px;
+  margin-bottom: 0px;
 }
 
 
@@ -628,6 +621,11 @@ ul.social-network li a {
 
 .sub-services img {
 	border-radius:6px;
+}
+
+.sub-services h3 {
+  margin-bottom:30px;
+  font-weight:800;
 }
 
 .services p {
@@ -1190,4 +1188,10 @@ a.scrollup:hover{
 
 .nav .open>a {
   border-color: #fff !important;
+}
+
+=============================================
+
+ol.pendaftaran > li {
+  margin-bottom: 20px;
 }

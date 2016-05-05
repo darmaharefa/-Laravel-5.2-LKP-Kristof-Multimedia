@@ -69,6 +69,7 @@
 	<div class="container">
 		<div class="col-md-6">
 			<div class="media">
+				<h3>Paket Desain Grafis dan Video Editing</h3>
 				<ul>
 					<li>
 						<div class="media-left">

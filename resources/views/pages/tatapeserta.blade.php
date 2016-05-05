@@ -27,7 +27,7 @@
 			<div class="col-md-3">
 				<div class="text-center">
 					<div class="hi-icon-wrap hi-icon-effect wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" >
-						<i class="info-kursus fa fa-thumbs-up"></i>	
+						<i class="info-kursus fa fa-legal"></i>	
 					</div>
 				</div>
 			</div>
@@ -67,7 +67,7 @@
 			<div class="col-md-3">
 				<div class="text-center">
 					<div class="hi-icon-wrap hi-icon-effect wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" >
-						<i class="info-kursus fa fa-thumbs-up"></i>	
+						<i class="info-kursus fa fa-hand-pointer-o"></i>	
 					</div>
 				</div>
 			</div>

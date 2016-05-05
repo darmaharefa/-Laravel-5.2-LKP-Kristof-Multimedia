@@ -37,7 +37,7 @@
 			<div class="col-md-3">
 				<div class="text-center">
 					<div class="hi-icon-wrap hi-icon-effect wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" >
-						<i class="i-pendidik fa fa-thumbs-up"></i>	
+						<i class="i-pendidik fa fa-gavel"></i>	
 					</div>
 				</div>
 			</div>
