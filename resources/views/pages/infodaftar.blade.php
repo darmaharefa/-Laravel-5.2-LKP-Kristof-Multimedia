@@ -19,6 +19,7 @@
 		</div>
 		<div class="row well">
 			<div class="col-md-9 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+			<br>
 				<ol class="pendaftaran">
 					<li>Mengisi formulir pendaftaran</li>
 					<li>Melunasi biaya kursus tahap I</li>

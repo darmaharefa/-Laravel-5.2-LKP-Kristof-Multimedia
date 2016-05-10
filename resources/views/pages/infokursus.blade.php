@@ -69,32 +69,29 @@
 				<ul>
 					<li>
 						<div class="media-left">
-							<i class="fa fa-pencil"></i>						
+							<i class="fa fa-file-photo-o"></i>						
 						</div>
 						<div class="media-body">
-							<h4 class="media-heading">Landing Page</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus interdum erat 
-							libero, pulvinar tincidunt leo consectetur eget.</p>
+							<h4 class="media-heading">Adobe Photoshop</h4>
+							<p>Adobe Photoshop, atau biasa disebut Photoshop, adalah perangkat lunak editor citra buatan Adobe Systems yang dikhususkan untuk pengeditan foto/gambar dan pembuatan efek. Perangkat lunak ini banyak digunakan oleh fotografer digital dan perusahaan iklan sehingga dianggap sebagai pemimpin pasar (market leader) untuk perangkat lunak pengolah gambar/foto</p>
 						</div>
 					</li>
 					<li>
 						<div class="media-left">
-							<i class="fa fa-book"></i>						
+							<i class="fa fa-file-photo-o"></i>						
 						</div>
 						<div class="media-body">
-							<h4 class="media-heading">Training</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus interdum erat 
-							libero, pulvinar tincidunt leo consectetur eget.</p>
+							<h4 class="media-heading">Adobe Illustrator</h4>
+							<p>Adobe Illustrator adalah program editor grafis vektor terkemuka, dikembangkan dan dipasarkan oleh Adobe Systems. Adobe Illustrator mengolah gambar berjenis vektor, dimana gambar tersebut akan tetap bagus walaupun dilakukan proses zooming atau scaling (diperbesar).</p>
 						</div>
 					</li>
 					<li>
 						<div class="media-left">
-							<i class="fa fa-rocket"></i>						
+							<i class="fa fa-file-video-o"></i>						
 						</div>
 						<div class="media-body">
-							<h4 class="media-heading">Logo Design</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus interdum erat 
-							libero, pulvinar tincidunt leo consectetur eget.</p>
+							<h4 class="media-heading">Adobe After Effect</h4>
+							<p>Adobe After Effects adalah produk piranti lunak yang dikembangkan oleh Adobe, digunakan untuk film dan pos produksi pada video. Dengan perpaduan dari bermacam-macam software Design yang telah ada, Adobe After Effects menjadi salah satu software Design yang handal.</p>
 						</div>
 					</li>
 				</ul>
@@ -102,13 +99,13 @@
 		</div>
 					
 		<div class="col-md-6">
-			<div class="row">
-				<div class="col-md-10 col-md-offset-1"><img src="images/4.jpg" class="img-responsive"></div>
+			<div class="row well">
+				<div class="col-md-10 col-md-offset-1"><img src="images/aplikasi-desain-grafis.png" class="img-responsive"></div>
 			</div>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus interdum erat 
-			libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
-			libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
-			libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque</p>
+			<p>Pada Paket Kursus ini anda akan belajar desain grafis dan video editing dengan menggunakan software Photoshop, Illustrator, Premier Pro dan After Effect. Kursus ini cocok untuk anda yang ingin menjadi seorang grafik desainer atau video maker profesional yang siap bekerja dimedia industri atau percetakan</p>
+			<p><b>Kenapa anda butuh Kursus Desain Grafis dan Video Editing ?</b></p>
+			<p>- Kompetitor anda sudah banyak yang memiliki media promosi yang bagus, jangan mau kalah dengan kompetitor anda <br> - Desain yang bagus akan mempengaruhi daya tarik pembeli <br> - Desain adalah seni, dan seni tidak tergantung orang lain, anda dapat mendesain sendiri sesuai yang anda inginkan
+			</p>
 		</div>
 	</div>
 </div>
@@ -116,11 +113,11 @@
 <div class="services">
 	<div class="container">
 		<div class="col-md-6">
-			<img src="images/4.jpg" class="img-responsive">
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus interdum erat 
-			libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
-			libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
-			libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque</p>
+			<div class="row well">
+				<div class="col-md-10 col-md-offset-1"><img src="images/aplikasi-jaringan.jpg" class="img-responsive"></div>
+			</div>
+			<p>Paket Kursus Teknik Komputer dan Jaringan adalah program kursus yang diselenggarakan oleh Kristof Multimedia yang ditujukan bagi mereka yang ingin menjadi staff IT Support di bidang jaringan komputer.</p>
+			<p>Jenis paket yang kami miliki terbagi 2 yakni Basic dan Advanced Networking. Materi yang diajarkan dimasing-masing paket ini sangat cocok bagi Anda yang tidak mempunya basic sama sekali tentang Networking. Kami akan membantu Anda mengerti konsep dan implementasi di lapangan.</p>
 		</div>
 		
 		<div class="col-md-6">
@@ -129,32 +126,20 @@
 				<ul>
 					<li>
 						<div class="media-left">
-							<i class="fa fa-pencil"></i>						
+							<i class="fa fa-wifi"></i>						
 						</div>
 						<div class="media-body">
-							<h4 class="media-heading">Microsoft Office Word</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus interdum erat 
-							libero, pulvinar tincidunt leo consectetur eget.</p>
+							<h4 class="media-heading">Basic Networking</h4>
+							<p>1. Pengantar Jaringan <br>2. Perangkat Jaringan <br>3. Pelatihan Cabling <br>4. Layer OSI dan TCP/IP<br>4. Pembagian dan perhitungan IP Address<br>5. Pengenalan Teknologi Wireless<br>6. Pengantar Server DHCP, DNS, Web, FTP Server<br>7. Teknologi ADSL untuk perkantoran<br>8. Troubleshooting</p>
 						</div>
 					</li>
 					<li>
 						<div class="media-left">
-							<i class="fa fa-book"></i>						
+							<i class="fa fa-wifi"></i>						
 						</div>
 						<div class="media-body">
-							<h4 class="media-heading">Microsoft Office Excel</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus interdum erat 
-							libero, pulvinar tincidunt leo consectetur eget.</p>
-						</div>
-					</li>
-					<li>
-						<div class="media-left">
-							<i class="fa fa-rocket"></i>						
-						</div>
-						<div class="media-body">
-							<h4 class="media-heading">Microsoft Office Power Point</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus interdum erat 
-							libero, pulvinar tincidunt leo consectetur eget.</p>
+							<h4 class="media-heading">Advanced Networking</h4>
+							<p>1. Routing ( Static dan Dynamic )<br>2. Subnetting <br>3. NAT <br>4. Proxy Server <br>5. Pengantar tentang Firewall <br>6. Perancangan Topologi Yang Baik <br>7. Pengenalan Teknologi Jaringan dan Server Skala Besar</p>
 						</div>
 					</li>
 				</ul>
