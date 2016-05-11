@@ -5,11 +5,13 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 
 use App\Http\Requests;
+use App\Blog;
 
 class PagesController extends Controller
 {
     public function getIndex(){
-    	return view('pages.home');
+        $post = Blog::orderBy("created_at", "desc")->take(3)->get();
+    	return view('pages.home')->with("data", $post);
     }
 
     public function getTentang(){
